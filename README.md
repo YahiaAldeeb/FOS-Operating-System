@@ -124,6 +124,14 @@ The project includes comprehensive testing with multiple difficulty levels:
 - **Scheduling Latency**: Low-latency process switching
 - **System Call Overhead**: Minimal kernel-user transitions
 
+## Collaborators
+- [Yahia Aldeeb](https://github.com/YahiaAldeeb)
+- [Hana Omar](https://github.com/HanaOmar1)
+- [Abdelrahman Maamoun](https://github.com/amaamoun99)
+- [Manar Sayed](https://github.com/Manarsayedd)
+- [Yasmeen Ahmed](https://github.com/yassmeenahmedd)
+- [Farida Ali](https://github.com/farridaali)
+
 ## 🤝 Contributing
 
 This project demonstrates advanced operating system concepts and implementations. The modular design allows for easy extension and modification of individual components.
