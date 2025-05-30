@@ -131,6 +131,7 @@ The project includes comprehensive testing with multiple difficulty levels:
 - [Manar Sayed](https://github.com/Manarsayedd)
 - [Yasmeen Ahmed](https://github.com/yassmeenahmedd)
 - [Farida Ali](https://github.com/farridaali)
+- [Mostafa Faheem](https://github.com/mostafafaheem)
 
 ## 🤝 Contributing
 
