@@ -124,7 +124,7 @@ The project includes comprehensive testing with multiple difficulty levels:
 - **Scheduling Latency**: Low-latency process switching
 - **System Call Overhead**: Minimal kernel-user transitions
 
-## Collaborators
+## 👥 Authors
 - [Yahia Aldeeb](https://github.com/YahiaAldeeb)
 - [Hana Omar](https://github.com/HanaOmar1)
 - [Abdelrahman Maamoun](https://github.com/amaamoun99)
